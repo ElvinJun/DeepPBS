@@ -76,7 +76,7 @@ def upload(request):
     child = subprocess.Popen(shell,
                             stdout=subprocess.PIPE, stderr=subprocess.PIPE, shell=True)
     stdout, stderr = child.communicate()
-    result = str(stderr, encoding='utf-8')  # 将脚本反馈的结果输入result
+    result = str(stderr, encoding='utf-8')  # return result
     logger.info(result)
     return render_home_template1(request)
 
