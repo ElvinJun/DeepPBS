@@ -13,8 +13,8 @@
 ![](https://github.com/ElvinJun/DeepPBS/blob/master/process.jpg?raw=true)
 
 
-# Protein backbone strcture prediction
-![deeppbs](https://github.com/ElvinJun/DeepPBS/blob/master/our_process.jpg?raw=true)
+# Protein backbone strcture prediction based on Bi-LSTM
+![deeppbs](https://github.com/ElvinJun/DeepPBS/blob/master/our_process%20.jpg?raw=true)
 
 
 # Method of rotation repetition
