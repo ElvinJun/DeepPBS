@@ -3,11 +3,16 @@ Motivation:Accurate all-atom protein structures play an important role in variou
 
 Results: In this study, we proposed a deep learning-based method to predict protein backbone structures from alpha-carbon traces. Our method achieved comparable performance as the best previous method with cRMSD between predicted coordinates and reference coordinates as measurement.
 
+# Webserver
 [点击进入骨架结构预测网页](deeppbs.com)
+* Python / Pytorch / Django
+* KNN / Bi-litsm / Rodrigues
 
 # Protein structure prediction process
 ![](https://github.com/ElvinJun/DeepPBS/blob/master/process.jpg?raw=true)
 
+# Protein backbone strcture prediction
+![](https://github.com/ElvinJun/DeepPBS/blob/master/our_process.jpg?raw=true)
 
 # Recurrent Geometric Networks
 This is the reference (TensorFlow) implementation of recurrent geometric networks (RGNs), described in the paper [End-to-end differentiable learning of protein structure](https://www.biorxiv.org/content/early/2018/08/29/265231). 
