@@ -5,6 +5,7 @@ Results: In this study, we proposed a deep learning-based method to predict prot
 
 [点击进入骨架结构预测网页](deeppbs.com)
 
+[image](https://github.com/ElvinJun/DeepPBS/edit/master/process.jpg)
 # Recurrent Geometric Networks
 This is the reference (TensorFlow) implementation of recurrent geometric networks (RGNs), described in the paper [End-to-end differentiable learning of protein structure](https://www.biorxiv.org/content/early/2018/08/29/265231). 
 
