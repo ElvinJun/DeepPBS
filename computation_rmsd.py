@@ -166,9 +166,6 @@ def extract_info_from_pred(CB_whether_exist, path_pred):
                     pred_array.append(next_CB)
                     count += 1
         pred_array = array(pred_array)
-        # print(pred_array[0],pred_array_without_CB[0])
-        # np.save(path_pred.replace('our_out','our_out_CB'),pred_array)
-        # np.save(path_pred.replace('our_out', 'our_out_test'), pred_array_without_CB)
         pred_array_without_CB = array(pred_array_without_CB)
         return  pred_array, pred_array_without_CB, pred_CB
 
