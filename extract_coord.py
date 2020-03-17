@@ -85,7 +85,6 @@ def atoms_infos(file_name):
 
 
 # 断链情况是否进行补全
-
 # 提取坐标信息
 def extract_coord(atoms_info):
     coord_array = np.zeros((len(atoms_info) // 4, 3))
