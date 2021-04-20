@@ -3,7 +3,7 @@
 
 **Results:** In this study, we proposed a deep learning-based method to predict protein backbone structures from alpha-carbon traces. Our method achieved comparable performance as the best previous method with cRMSD between predicted coordinates and reference coordinates as measurement.
 
-#workflow
+# workflow
 ![image](https://user-images.githubusercontent.com/46809259/115357912-b3290e00-a1ef-11eb-8b82-0b58706c48a9.png)
 
 # Webserver
